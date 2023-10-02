@@ -1,0 +1,1 @@
+# mixtecan-cognate-database
