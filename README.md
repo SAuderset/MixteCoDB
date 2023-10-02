@@ -1,6 +1,12 @@
-# mixtecan-cognate-database
+# The Mixtecan Cognate Database
 
-# metadata
+!This is a work in progress and is updated periodically!
+
+
+## coding details
+file explaining the conversion from orthography to IPA and other details regarding the standardization
+
+## metadata
 Metadata of the language sample:
 * DOCULECT = unique identifier for each Mixtec variety (containing only ASCII characters)
 * VillageName	= name of the village where the variety is spoken
@@ -14,11 +20,11 @@ Metadata of the language sample:
 * SOURCE = cite key of the source(s) of the data
 
 
-# cognates
+## mixtecan_cognate_database
 contains all the primary language data coded for cognacy:
 * ID = a unique, arbitrary identifier for each entry (digits)
 * MEANING	= gloss/meaning of the entry
-* COGIDS_BROAD = unique identifier for cognate sets; each morpheme is assigned its own identifier, separated by a space (digits)
+* COGIDS = unique identifier for cognate sets; each morpheme is assigned its own identifier, separated by a space (digits)
 * DOCULECT = identifier for variety of the entry (see also: metadata)
 * TOKENS = entry in standardized IPA representation, tokenized
 * SOURCE_ORIGINAL = entry exactly as provided in the source
@@ -28,7 +34,7 @@ contains all the primary language data coded for cognacy:
 * SOURCE = cite key of source document for the entry
 
 
-# protoforms
+## protoforms
 contains the reconstructed proto-Mixtec forms (where reconstruction was possible), as well as information about earlier reconstructions:
 * COGIDS_BROAD = unique identifier for cognate sets; each morpheme is assigned its own identifier, separated by a space (digits)
 * MEANING	= gloss(es)/meaning(s) of the reconstructed form
@@ -45,5 +51,5 @@ contains the reconstructed proto-Mixtec forms (where reconstruction was possible
 * SwantonID = number assigned to reconstructed form in Swanton 2021
 
 
-# sources.bib
-bibtex file with all the sources of the data and analyses
+## sources.bib
+bibtex file with all the sources of the data
