@@ -5,13 +5,12 @@ library(tidyverse)
 library(here)
 
 # read in db
-db_current <- read_tsv("mixtecan_cognate_db.tsv") %>%
-  rename(COGIDS = COGIDS_BROAD)
+db_current <- read_tsv("mixtecan_cognate_db.tsv")
 glimpse(db_current)
 
 # read in corrections - use absolute path
-corrections <- read_tsv("cognates_tones_workingversion.tsv") %>%
-  select(ID:TONES, COMMENT, SOURCE)
+corrections <- read_tsv("/Users/auderset/Documents/GitHub/sound-change-patterns/Data/cognates_workversion.tsv") %>%
+  select(ID:SOURCE)
 glimpse(corrections)
 
 # subset and combine
