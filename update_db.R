@@ -9,8 +9,8 @@ db_current <- read_tsv("mixtecan_cognate_db.tsv")
 glimpse(db_current)
 
 # read in corrections - use absolute path
-corrections <- read_tsv("/Users/auderset/Documents/GitHub/sound-change-patterns/Data/cognates_workversion.tsv") %>%
-  select(ID:SOURCE)
+corrections <- read_tsv("/Users/auderset/Documents/GitHub/tone-rate-signal/Data/cognates_tones_workv.tsv") %>%
+  select(ID:TOKENS, COMMENT:SOURCE)
 glimpse(corrections)
 
 # subset and combine
@@ -22,14 +22,13 @@ corrections_add <- db_current %>%
 
 # clean up
 # show duplicate IDs
-dupes <- corrections_add %>%
+dupes <- corrections %>%
   get_dupes(ID)
 # max ID
-max(corrections_add$ID)
+max(corrections$ID)
 # re-assing/delete duplicates
 corrections_add_clean <- corrections_add %>%
-  distinct(across(-COMMENT), .keep_all = TRUE) %>%
-  select(-TONES)
+  distinct(across(-COMMENT), .keep_all = TRUE)
 # check again
 corrections_add_clean %>%
   get_dupes(ID)
