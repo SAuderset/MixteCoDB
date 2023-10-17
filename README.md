@@ -1,8 +1,9 @@
-# Mixtecan Cognate Database
+# Mixtecan Cognate Database (MixteCoDB)
 
-This database contains lexical entries from Mixtecan languages, which are cognate coded and standardized to IPA. It is a work in progress and continuously updated. For use in your own research and citation, please refer to the most recent release archived in Zenodo.
+This database contains lexical entries from Mixtecan languages, which are cognate coded and standardized to IPA. It is a work in progress and continuously updated. For use in your own research and citation, please refer to the most recent release archived in Zenodo. The database is available under the Creative Commons Attribution Share Alike 4.0 International license.
 
-The initial creation of the database, which corresponds to its first release (1.0.0) is explained in:
+## MixteCoDB 1.0
+The initial creation of the database, which corresponds to its first release (1.0) is explained in:
 * Auderset, Sandra, Simon J., Greenhill, Christian T., DiCanio, Eric W., Campbell. 2023. Subgrouping in a `dialect continuum': A Bayesian phylogenetic analysis of the Mixtecan language family. *Journal of Language Evolution*. 8(1). https://doi.org/10.1093/jole/lzad004
 * Auderset, Sandra, Simon J., Greenhill, Christian T., DiCanio, Eric W., Campbell. 2023. Supplementary Materials to "Subgrouping in a `dialect continuum': A Bayesian phylogenetic analysis of the Mixtecan language family." Available on *Zenodo* at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7940497.svg)](https://doi.org/10.5281/zenodo.7940497)
 
@@ -62,3 +63,10 @@ bibtex file with all the sources of the data
 
 ### wordlist_mesoamerica
 a list of 209 concepts of basic vocabulary items tailored to the Mesoamerican cultural area, that was used to collect the lexical entries
+
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
