@@ -8,6 +8,8 @@ The initial creation of the database, which corresponds to its [first release (1
 * Auderset, Sandra, Simon J., Greenhill, Christian T., DiCanio, Eric W., Campbell. 2023. Subgrouping in a `dialect continuum': A Bayesian phylogenetic analysis of the Mixtecan language family. *Journal of Language Evolution*. 8(1). https://doi.org/10.1093/jole/lzad004
 * Auderset, Sandra, Simon J., Greenhill, Christian T., DiCanio, Eric W., Campbell. 2023. Supplementary Materials to "Subgrouping in a `dialect continuum': A Bayesian phylogenetic analysis of the Mixtecan language family." Available on *Zenodo* at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7940497.svg)](https://doi.org/10.5281/zenodo.7940497)
 
+## MixeCoDB 1.1 - October 2023
+
 
 ## Files and content
 
