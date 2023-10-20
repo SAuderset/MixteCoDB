@@ -35,8 +35,8 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 103	CHILD (DESCENDANT)	hijo, hija	saʔje	saʔji	110		54	saʔjV	48	saʔja	84	a is definitely a possibility, but e requires less changes
 107	CHILI PEPPER	chile	jaʔaʔ			jaʔaʔ	12	jaʔaʔ	4			
 4	CLF.?	clasificador ?	tɨ									classifier (not animate, meaning not known)
-35	CLF.ANIMAL	clasificador animal	ⁿdɨ									classifer for animals
 9	CLF.ANIMAL	clasificador animal	tɨ									classifier for animals
+35	CLF.ANIMAL	clasificador animal	ⁿdɨ									classifer for animals
 918	CLF.DEER	clasificador venado	sa									classifier in ‘deer’
 320	CLF.GRASS	clasificador pasto	ⁿda									classifier that appears in ‘grass’
 415	CLF.M	clasificador masculino	ra									
@@ -90,8 +90,8 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 272	FURROW	surco	jukũ	jukũ	180							
 273	FURROW	surco	titi									
 183	GARBAGE	basura	jaka									
-282	GARBAGE	basura	tʃeʔje									
 279	GARBAGE	basura	wiʔĩʔ	wiʔiʔ	116							
+282	GARBAGE	basura	tʃeʔje									
 286	GOOD	bueno/a	waʔa	waʔa	112	waʔa	60					
 291	GOURD BOWL	jícara	jetʃĩʔ	jexĩʔ	43			jetʃĩʔ	5	jetʃĩʔ	16	
 294	GRASS	zacate, pasto	ite					ite	19			
@@ -101,15 +101,15 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 308	GREEN BEAN	ejote	ⁿditi	ⁿditi	91							
 310	GRIDDLE	comal	tʃijoʔ	xijoʔ	19	xijoʔ	70	tʃijoʔ	34			
 311	HAIR	pelo, cabello	isiʔ					isiʔ	2	isiʔ	6	
-317	HALF	mitad	jaʔjũ									
 314	HALF	mitad	sawa	sawa	92							
+317	HALF	mitad	jaʔjũ									
 320	HAND	mano	ⁿdaʔaʔ			ⁿdaʔaʔ	5					
-1121	HAWK	gavilán	jaʔa									second element in some forms for ‘hawk’
-193	HAWK	gavilán	siʔjã									
 192	HAWK	gavilán	tasũʔ	tasũʔ	103					tasuʔ	98	the majority of reflexes have a nasal vowel
+193	HAWK	gavilán	siʔjã									
+1121	HAWK	gavilán	jaʔa									second element in some forms for ‘hawk’
 326	HEAVY	pesado	weji	weji	187			wejɨ	50	wejɨ	137	the reflexes do not with a final ɨ
-100	HEN	pollo, gallina	juũʔ			tɨ+juũʔ	93					
 99	HEN	pollo, gallina	utʃiʔ									
+100	HEN	pollo, gallina	juũʔ			tɨ+juũʔ	93					
 332	HERBACEOUS PLANT	hierba	juku	juku	179	juku	82	juku	36			
 333	HERBACEOUS PLANT	quelite	juwa					jowe	24	jowa	24	few forms in this set, all from languages that merge o with u in this context; no clear evidence fo positing o
 334	HERBACEOUS PLANT	quelite	kuʔwi									
@@ -121,8 +121,8 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 367	INTESTINES	tripas	tʃɨtɨ	xɨtɨ	122							
 369	IRON	fierro, metal	tOni	tuni	183							first vowel is difficult to reconstruct based on our data
 374	JEALOUS	celoso	kʷijõ					ʔ-kʷijõ	63			
-379	LAZY	flojo/a, perezoso/a	kusi									
 377	LAZY	flojo/a, perezoso/a	sutʃẽʔ	suxẽʔ	17			(ʔ1)-sutʃẽʔ	56			
+379	LAZY	flojo/a, perezoso/a	kusi									
 388	LIGHTNING	rayo	tatʃa					tatʃa	14	tatʃa	99	
 399	LIME (MATERIAL)	cal	kaka				33			kaka	38	
 400	LIQUID	líquido	kʷii									
@@ -153,13 +153,13 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 469	NET	red, rede	jonoʔ	jonoʔ	42							
 476	NEW	nuevo/a	tʃeeʔ			xee	107					
 480	NIGHT	noche	kʷaa									
-985	NIGHT TIME	de noche	jaa									second part in some entries for ‘night time’
 481	NIGHT TIME	de noche	nijũ	nijũ	83							
+985	NIGHT TIME	de noche	jaa									second part in some entries for ‘night time’
 490	NINE	nueve	ɨɨ̃			ɨɨ̃	88					
 492	NIXTAMAL	nixtamal	tʃaʔa					ʔ-tʃaʔa	66			
 496	NOSE	naríz	sitĩʔ	sitĩʔ	8							
-506	NOW OR TODAY	ahora, hoy	jatĩ									
 501	NOW OR TODAY	ahora, hoy	witĩ	witĩ	134		27	witĩ	17	witĩ	144	
+506	NOW OR TODAY	ahora, hoy	jatĩ									
 507	ONE	uno	ɨɨ̃				30			ɨɨ̃	10	
 17	OVEN	horno	tʃitũ	xitũ	54			tʃitũ	42	tʃitũ	133	
 512	OWNER	dueño, señor	toʔo	xi+toʔo	63					tʃiʔ-toʔo	132	
@@ -168,8 +168,8 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 526	PIG	cerdo, marrano	kɨnɨ									
 529	PIMPLE	grano (de piel)	ⁿdɨʔjɨ	ⁿdɨʔjɨ	144			nɨʔjɨ	47			
 535	PLAIN	llanura, llano	josoʔ	josoʔ	156					josoʔ	22	
-538	PLAIN	llanura, llano	ⁿdaa									
 537	PLAIN	llanura, llano	ⁿduʔwe									
+538	PLAIN	llanura, llano	ⁿdaa									
 545	PLATE	plato	koʔo									
 548	POOR	pobre	ⁿdaʔwi	ⁿdaʔwi	137		104	ʔ-naʔwi	64	ʔ-naʔwi	67	
 554	POSSUM	tlacuache	tʃako							tʃako	117	
@@ -186,8 +186,8 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 599	RICH	rico	kʷikaʔ									
 604	RING	anillo	seʔji							seʔjoʔ	89	we do not have any data that would point to a back vowel in the final syllable; no evidence for a final glottal stop
 607	RIVER	río	jute	jute	23	jute	58	jote	44	jote	23	only one language in our sample has an o and all other reflexes fit with initial *ju
-616	ROOSTER	gallo	liʔi									uncertain, could be a loan
 615	ROOSTER	gallo	tile									uncertain, could be a loan
+616	ROOSTER	gallo	liʔi									uncertain, could be a loan
 619	ROPE/ROOT	mecate, raíz	joʔoʔ			joʔoʔ	14	joʔoʔ	6			
 624	SALT	sal	jɨɨ̃ʔ	jɨɨ̃ʔ	41							
 470	SALTY	salado	ese									
@@ -199,14 +199,14 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 652	SIX	seis	ijõ	ijõ	106			ijõ	35	ijõ	3	
 655	SKUNK	zorrillo	jɨʔɨ̃									
 662	SLOW	despacio	kʷeji	kʷeje	163			ʔ-kʷeje	62	ʔ-kʷeje	58	the reflexes do not fit with *eje (see MAN)
-669	SMALL (PLURAL)	pequeño.PL	kʷetiʔ			kʷetiʔ	101					
 668	SMALL (PLURAL)	pequeño.PL	waliʔ									
+669	SMALL (PLURAL)	pequeño.PL	kʷetiʔ			kʷetiʔ	101					
+673	SMALL (SINGULAR)	pequeño.SG										difficult to reconstruct the second syllable, but seems to start with *lu; maybe these are all variations of luʔu
 674	SMALL (SINGULAR)	pequeño.PL	luʔu	luʔu	153	luʔu	108					
 676	SMALL (SINGULAR)	pequeño.SG	tɨʔɨ									difficult to reconstruct the second syllable
-673	SMALL (SINGULAR)	pequeño.SG										difficult to reconstruct the second syllable, but seems to start with *lu; maybe these are all variations of luʔu
 682	SMOKE (EXHAUST)	humo	joʔwẽ	juʔwẽ	101			joʔwẽ	38	joʔwẽ	26	not completely conclusive, but o does simplify changes better in a few varieties
-686	SMOOTH	liso/a	kani									
 660	SMOOTH	liso/a	ⁿdɨʔwɨʔ	lɨʔwɨʔ	152							very uncertain, needs further research
+686	SMOOTH	liso/a	kani									
 689	SNAKE	culebra	kooʔ	kooʔ	69	kooʔ	65					
 690	SOAP	jabón	nawãʔ			nawãʔ	71			nawãʔ	65	
 570	SQUASH	calabaza	jɨkɨ̃ʔ	jɨkɨ̃ʔ	44					jɨkɨ̃ʔ	20	
@@ -217,8 +217,8 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 735	SWEET	dulce	wisĩ	wisĩ	133		84			wisĩ	143	
 738	SWEET POTATO	camote	jaʔwĩ					jaʔwĩ	21			
 742	SWELLING	hinchazón	kʷijõ									
-748	TAIL	cola	ⁿdoʔo									
 635	TAIL	cola	suʔwẽʔ	luʔwẽʔ	6							
+748	TAIL	cola	ⁿdoʔo									
 751	TASSEL	espiga	jokoʔ	jokoʔ	98							
 755	TASTY	sabroso	asɨ̃ʔ	asɨ̃ʔ	130					asɨ̃ʔ	1	
 761	TEN	diez	utʃi	uxi	123					utʃi	134	
@@ -236,9 +236,9 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 809	TWENTY	veinte	oko									
 811	TWO	dos	uwi	uwi	138	uwi	89	uwi	43			
 812	UGLY	feo	kini	kini	70							
-818	UGLY	feo	kʷiʔja									
 815	UGLY	feo	ⁿdasɨ									
 817	UGLY	feo	ⁿdeʔe									
+818	UGLY	feo	kʷiʔja									
 824	UNCLE	tío	sito				34			sito	92	
 826	URINE	orina	sese	lele	150							
 402	WATER	agua	ⁿduteʔ	ⁿduteʔ	22							
@@ -253,5 +253,5 @@ COGIDS	MEANING	SPANISH	PMX	PMX_Josserand1983	JosserandID	PMX_Durr1987	DurrID	PMX
 870	WORKING OR WORK	trabajo	tijõ	tijõ	49		16	tijõ	15	tijõ	105	
 872	YEAR	año	kʷija	kʷija	74		81			kʷija	61	
 876	YELLOW	amarillo	kʷaã	kʷaã	78		103	ʔ-kʷaã	60	ʔ-kʷaã	56	
-879	YESTERDAY	ayer	iku	iku	170	iku	29	iku(-nĩ)	12			
 878	YESTERDAY	ayer	ni					iku(-nĩ)	12			second morpheme that fused with 879
+879	YESTERDAY	ayer	iku	iku	170	iku	29	iku(-nĩ)	12			
