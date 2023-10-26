@@ -2806,23 +2806,21 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 4086	EIGHT	207	SanLuisMoreliaMixtec	u̧na̧	u̧na̧	ũ n ã	ũ n ã	NA	josserand1983mixtec
 4087	TEN	761	SanLuisMoreliaMixtec	üšü	üšü	ʉ ʃ ʉ	u ʃ u	NA	josserand1983mixtec
 4089	GOURD BOWL	291	SanPedroySanPabloTeposcolula1600Mixtec	yasi	yasi	j a ʃ ĩ	j a ʃ ĩ	NA	swanton2021un-acercamiento
-4091	BASKET	4 1034	SanPedroySanPabloTeposcolula1600Mixtec	tesiyo	tesiyo	t e + s i j o	t e + s i j o	NA	alvarado1962vocabulario
-4092	BOX OR CHEST	79	SanPedroySanPabloTeposcolula1600Mixtec	satnu	satnu	s a tⁿ ũ	ʃ a tⁿ ũ	NA	swanton2021un-acercamiento
+4091	BASKET	4 1034	SanPedroySanPabloTeposcolula1600Mixtec	tesiyo	te-siyo	t ɨ + ʃ i j o	t ɨ + s i j o	NA	alvarado1962vocabulario
+4092	BOX OR CHEST	79	SanPedroySanPabloTeposcolula1600Mixtec	satnu	satnu	ʃ a tⁿ ũ	ʃ a tⁿ ũ	NA	swanton2021un-acercamiento
 4094	THREAD	768	SanPedroySanPabloTeposcolula1600Mixtec	yuhua	yuhua	j u ʔ w a	j u ʔ w a	NA	swanton2021un-acercamiento
 4095	COMB	136	SanPedroySanPabloTeposcolula1600Mixtec	cucua	cucua	k u kʷ a	k u kʷ a	NA	alvarado1962vocabulario
 4098	HOLE	341	SanPedroySanPabloTeposcolula1600Mixtec	yavui	yavui	j a w i	j a w i	NA	alvarado1962vocabulario
 4100	NET	469	SanPedroySanPabloTeposcolula1600Mixtec	ñono	ñono	ɲ o n o	ɲ o n o	NA	alvarado1962vocabulario
-4102	SOAP	694	SanPedroySanPabloTeposcolula1600Mixtec	nama	nama	n a m a	n a m a	NA	alvarado1962vocabulario
-4103	RING	604	SanPedroySanPabloTeposcolula1600Mixtec	dzahi	dzahi	ð a ʔ i	ð a ʔ i	NA	swanton2021un-acercamiento
+4103	RING	604	SanPedroySanPabloTeposcolula1600Mixtec	dzahi	dzahi	ð e ʔ e	ð a ʔ i	NA	swanton2021un-acercamiento
 4104	MOON	430	SanPedroySanPabloTeposcolula1600Mixtec	yoo	yoo	j o o	j o o	NA	alvarado1962vocabulario
 4105	CLOUD	120	SanPedroySanPabloTeposcolula1600Mixtec	huico	huico	w i k o	w i k o	NA	swanton2021un-acercamiento
-4106	LIGHTNING	388	SanPedroySanPabloTeposcolula1600Mixtec	tasa	tasa	t a s a	t a s a	NA	alvarado1962vocabulario
 4107	WATER	402	SanPedroySanPabloTeposcolula1600Mixtec	duta	duta	ⁿd u t a	ⁿd u t a	NA	alvarado1962vocabulario
 4110	RAIN (PRECIPITATION)	586	SanPedroySanPabloTeposcolula1600Mixtec	dzavui	dzavui	ð a w i	ð a w i	NA	swanton2021un-acercamiento
 4112	RIVER	607	SanPedroySanPabloTeposcolula1600Mixtec	yuta	yuta	j u t a	j u t a	NA	swanton2021un-acercamiento
 4113	DEW	167	SanPedroySanPabloTeposcolula1600Mixtec	yuyu	yuyu	j u j u	j u j u	NA	josserand1983mixtec
 4114	MOUNTAIN OR HILL	437	SanPedroySanPabloTeposcolula1600Mixtec	yucu	yucu	j u k u	j u k u	NA	swanton2021un-acercamiento
-4116	PLAIN	535	SanPedroySanPabloTeposcolula1600Mixtec	yodzo	yodzo	j o ð o	j o ð o	NA	alvarado1962vocabulario
+4116	PLAIN	535	SanPedroySanPabloTeposcolula1600Mixtec	yodzo	yodzo	j o ð o	j o ð o	NA	swanton2021un-acercamiento
 4118	PLAIN	538	SanPedroySanPabloTeposcolula1600Mixtec	ⁿdaa	ⁿdaa	ⁿd a a	ⁿd a a	NA	josserand1983mixtec
 4119	STONE OR ROCK	710	SanPedroySanPabloTeposcolula1600Mixtec	yuu	yuu	j u u	j u u	NA	alvarado1962vocabulario
 4121	COTTON	157	SanPedroySanPabloTeposcolula1600Mixtec	cachi	cachi	k a tʃ i	k a tʃ i	NA	swanton2021un-acercamiento
@@ -2832,16 +2830,16 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 4127	LIME (MATERIAL)	399	SanPedroySanPabloTeposcolula1600Mixtec	caca	caca	k a k a	k a k a	NA	swanton2021un-acercamiento
 4128	BEESWAX	33	SanPedroySanPabloTeposcolula1600Mixtec	ñuma	ñuma	ɲ u m a	ɲ u m a	NA	alvarado1962vocabulario
 4130	MUD	449	SanPedroySanPabloTeposcolula1600Mixtec	dáyu	dáyu	ⁿd a ʔ j u	ⁿd a ʔ j u	NA	swanton2021un-acercamiento
-4132	FOAM	9 250	SanPedroySanPabloTeposcolula1600Mixtec	teiño	teiño	t ɨ + i ɲ o	t ɨ + i ɲ o	NA	alvarado1962vocabulario
+4132	FOAM	9 250	SanPedroySanPabloTeposcolula1600Mixtec	teiño	te-iño	t ɨ + i ɲ o	t ɨ + i ɲ o	NA	alvarado1962vocabulario
 4133	FOAM	246 402	SanPedroySanPabloTeposcolula1600Mixtec	itanduta	ita-nduta	i t a + ⁿd u t a	i t a + ⁿd u t a	NA	alvarado1962vocabulario
 4134	FOAM	250	SanPedroySanPabloTeposcolula1600Mixtec	i̧ño̧	i̧ño̧	ĩ ɲ õ	ĩ ɲ õ	NA	josserand1983mixtec
 4135	DUST	279	SanPedroySanPabloTeposcolula1600Mixtec	ñuyaca mihi	mihi	m i ʔ i	m i ʔ i	NA	alvarado1962vocabulario
-4136	DUST	9 923	SanPedroySanPabloTeposcolula1600Mixtec	ñuyaca teyachi	te-yachi	t e + j a tʃ i	t e + j a tʃ i	NA	alvarado1962vocabulario
+4136	DUST	9 923	SanPedroySanPabloTeposcolula1600Mixtec	ñuyaca teyachi	te-yachi	t ɨ + j a tʃ i	t ɨ + j a tʃ i	NA	alvarado1962vocabulario
 4137	RED	596	SanPedroySanPabloTeposcolula1600Mixtec	tay ydzi yaha	yaha	j a ʔ a	j a ʔ a	NA	alvarado1962vocabulario
 4140	GREEN	305	SanPedroySanPabloTeposcolula1600Mixtec	cuij	cuij	kʷ i i	kʷ i i	NA	swanton2021un-acercamiento
 4142	YELLOW	876	SanPedroySanPabloTeposcolula1600Mixtec	quaa	quaa	kʷ ã ã	kʷ ã ã	NA	swanton2021un-acercamiento
 4143	BLACK	1044 93	SanPedroySanPabloTeposcolula1600Mixtec	sandayu satnoo ~ tnoo naa	tnoo	tⁿ o o	tⁿ o o	NA	alvarado1962vocabulario
-4144	WHITE	844	SanPedroySanPabloTeposcolula1600Mixtec	sacuisi	sacuisi	kʷ i s i	kʷ i s i	NA	alvarado1962vocabulario
+4144	WHITE	844	SanPedroySanPabloTeposcolula1600Mixtec	sacuisi	cuisi	kʷ i s i	kʷ i s i	NA	alvarado1962vocabulario
 4145	ONE	507	SanPedroySanPabloTeposcolula1600Mixtec	ee	ee	ɨ ɨ̃	ɨ ɨ̃	NA	swanton2021un-acercamiento
 4146	TWO	811	SanPedroySanPabloTeposcolula1600Mixtec	vvui	vvui	u w i	u w i	NA	alvarado1962vocabulario
 4149	THREE	771	SanPedroySanPabloTeposcolula1600Mixtec	vni	vni	u n i	u n i	NA	swanton2021un-acercamiento
@@ -2850,7 +2848,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 4154	SIX	652	SanPedroySanPabloTeposcolula1600Mixtec	iño	iño	i ɲ o	i ɲ o	NA	swanton2021un-acercamiento
 4157	SEVEN	638	SanPedroySanPabloTeposcolula1600Mixtec	usa	usa	u s a	u ʃ a	NA	josserand1983mixtec
 4159	EIGHT	207	SanPedroySanPabloTeposcolula1600Mixtec	una	una	u n a	u n a	NA	josserand1983mixtec
-4160	NINE	490	SanPedroySanPabloTeposcolula1600Mixtec	ee	ee	ɨ ɨ	ɨ ɨ	NA	alvarado1962vocabulario
+4160	NINE	490	SanPedroySanPabloTeposcolula1600Mixtec	ee	ee	ɨ ɨ̃	ɨ ɨ̃	NA	alvarado1962vocabulario
 4161	TEN	761	SanPedroySanPabloTeposcolula1600Mixtec	vsi	vsi	u ʃ i	u ʃ i	NA	swanton2021un-acercamiento
 4164	FIFTEEN	234	SanPedroySanPabloTeposcolula1600Mixtec	saho	saho	ʃ a ʔ õ	ʃ a ʔ õ	NA	swanton2021un-acercamiento
 4165	TWENTY	809	SanPedroySanPabloTeposcolula1600Mixtec	oco	oco	o k o	o k o	NA	alvarado1962vocabulario
@@ -2871,40 +2869,39 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 4192	BITTER	54	SanPedroySanPabloTeposcolula1600Mixtec	atu	atu	a t u	a t u	NA	alvarado1962vocabulario
 4193	BITTER	51	SanPedroySanPabloTeposcolula1600Mixtec	huvua	huvua	u w a	u w a	NA	alvarado1962vocabulario
 4194	BITTER	53	SanPedroySanPabloTeposcolula1600Mixtec	aya	aya	a j a	a j a	NA	alvarado1962vocabulario
-4197	TASTY	755	SanPedroySanPabloTeposcolula1600Mixtec	adzi	adzi	a ð ĩ	a ð ĩ	irregular, expected asɨ̃	swanton2021un-acercamiento
+4197	TASTY	755	SanPedroySanPabloTeposcolula1600Mixtec	adzi	adzi	a ð ĩ	a ð ĩ		swanton2021un-acercamiento
 4199	WIDE	848	SanPedroySanPabloTeposcolula1600Mixtec	cono	cono	k o n o	k o n o	NA	alvarado1962vocabulario
 4200	NEW	476	SanPedroySanPabloTeposcolula1600Mixtec	sasaa	saa	s a a	ʃ a a	NA	alvarado1962vocabulario
 4202	LAZY	378	SanPedroySanPabloTeposcolula1600Mixtec	tay cundu	cundu	k u ⁿd u	k u ⁿd u	NA	alvarado1962vocabulario
 4203	LAZY	379	SanPedroySanPabloTeposcolula1600Mixtec	tay cudzy	cudzy	k u ð i	k u ð i	NA	alvarado1962vocabulario
-4204	LAZY	380	SanPedroySanPabloTeposcolula1600Mixtec	tay yevua	yevua	j e w a	j e w a	NA	alvarado1962vocabulario
-4205	LAZY	407	SanPedroySanPabloTeposcolula1600Mixtec	tay taya	tay taya	t a j a	t a j a	NA	alvarado1962vocabulario
+4204	LAZY	380	SanPedroySanPabloTeposcolula1600Mixtec	tay yevua	yevua	j ɨ w a	j ɨ w a	NA	alvarado1962vocabulario
+4205	LAZY	407	SanPedroySanPabloTeposcolula1600Mixtec	tay taya	taya	t a j a	t a j a	NA	alvarado1962vocabulario
 4209	UGLY	818	SanPedroySanPabloTeposcolula1600Mixtec	sandii sacuiya	cuiya	kʷ i j a	kʷ i j a	NA	alvarado1962vocabulario
 4211	UGLY	812	SanPedroySanPabloTeposcolula1600Mixtec	ka̧na̧	ka̧na̧	k ã n ã	k ã n ã	NA	josserand1983mixtec
 4212	UGLY	817	SanPedroySanPabloTeposcolula1600Mixtec	ⁿdii	ⁿdii	ⁿd i i	ⁿd i i	NA	josserand1983mixtec
 4213	JEALOUS	374 366	SanPedroySanPabloTeposcolula1600Mixtec	tai cuiñoini	cuiño-ini	kʷ i ɲ o + i n i	kʷ i ɲ o + i n i	NA	alvarado1962vocabulario
 4214	NEAR	459	SanPedroySanPabloTeposcolula1600Mixtec	yatni	yatni	j a tⁿ i	j a tⁿ i	NA	swanton2021un-acercamiento
-4216	FAR	212	SanPedroySanPabloTeposcolula1600Mixtec	sica	sica	s i k a	s i k a	NA	alvarado1962vocabulario
-4218	HEAVY	326	SanPedroySanPabloTeposcolula1600Mixtec	huay	huay	w a u	w a u	NA	swanton2021un-acercamiento
-4219	RAW	592	SanPedroySanPabloTeposcolula1600Mixtec	yehe	yehe	j e ʔ e	j e ʔ e	NA	alvarado1962vocabulario
-4220	SMOOTH	660	SanPedroySanPabloTeposcolula1600Mixtec	sandee	sandee	ⁿd ɨ ɨ	ⁿd ɨ ɨ	NA	alvarado1962vocabulario
+4216	FAR	212	SanPedroySanPabloTeposcolula1600Mixtec	sica	sica	ʃ i k a	s i k a	NA	alvarado1962vocabulario
+4218	HEAVY	326	SanPedroySanPabloTeposcolula1600Mixtec	huay	huay	w e e	w a i	NA	swanton2021un-acercamiento
+4219	RAW	592	SanPedroySanPabloTeposcolula1600Mixtec	yehe	yehe	j ɨ ʔ ɨ	j ɨ ʔ ɨ	NA	alvarado1962vocabulario
+4220	SMOOTH	660	SanPedroySanPabloTeposcolula1600Mixtec	sandee	ndee	ⁿd ɨ ɨ	ⁿd ɨ ɨ	NA	alvarado1962vocabulario
 4221	SMOOTH	687	SanPedroySanPabloTeposcolula1600Mixtec	saadziñu	dziñu	ð i ɲ u	ð i ɲ u	NA	alvarado1962vocabulario
 4222	SMOOTH	686	SanPedroySanPabloTeposcolula1600Mixtec	sanani	nani	n a n i	n a n i	NA	alvarado1962vocabulario
-4224	SLOW	662	SanPedroySanPabloTeposcolula1600Mixtec	quay	quay	kʷ a i	kʷ a i	NA	swanton2021un-acercamiento
-4225	YESTERDAY	879	SanPedroySanPabloTeposcolula1600Mixtec	ycuy	ycuy	i k u j	i k u	NA	alvarado1962vocabulario
+4224	SLOW	662	SanPedroySanPabloTeposcolula1600Mixtec	quay	quay	kʷ e e	kʷ a i	NA	swanton2021un-acercamiento
+4225	YESTERDAY	879	SanPedroySanPabloTeposcolula1600Mixtec	ycuy	ycuy	i k u i	i k u i	NA	alvarado1962vocabulario
 4228	YEAR	872	SanPedroySanPabloTeposcolula1600Mixtec	cuiya	cuiya	kʷ i j a	kʷ i j a	NA	swanton2021un-acercamiento
 4229	NOW OR TODAY	501	SanPedroySanPabloTeposcolula1600Mixtec	huitna	huitna	w i tⁿ ã	w i tⁿ ã	NA	swanton2021un-acercamiento
 4230	NIGHT	481	SanPedroySanPabloTeposcolula1600Mixtec	ñuu	ñuu	ɲ u u	ɲ u u	NA	alvarado1962vocabulario
-4232	NIGHT	475 480	SanPedroySanPabloTeposcolula1600Mixtec	saquaa	saquaa	s a + kʷ a a	s a + kʷ a a	NA	alvarado1962vocabulario
+4232	NIGHT	475 480	SanPedroySanPabloTeposcolula1600Mixtec	saquaa	sa-quaa	s a + kʷ a a	s a + kʷ a a	NA	alvarado1962vocabulario
 4235	DAY (24 HOURS)	163	SanPedroySanPabloTeposcolula1600Mixtec	quevui	quevui	k ɨ w i	k ɨ w i	NA	swanton2021un-acercamiento
-4236	DAY (24 HOURS)	1	SanPedroySanPabloTeposcolula1600Mixtec	ⁿdevi	ⁿdevi	ⁿd ɨ β i	ⁿd u w i	expected form	josserand1983mixtec
+4236	DAY (24 HOURS)	1	SanPedroySanPabloTeposcolula1600Mixtec	ⁿdevi	ⁿdevi	ⁿd ɨ β i	ⁿd ɨ β i		josserand1983mixtec
 4239	HALF	314	SanPedroySanPabloTeposcolula1600Mixtec	đava	đava	ð a w a	ð a w a	NA	josserand1983mixtec
 4240	MONEY	428 970	SanPedroySanPabloTeposcolula1600Mixtec	dziñuhu dusa	dziñuhu-dusa	ð i ɲ u ʔ u + ⁿd u s a	ð i ɲ u ʔ u + ⁿd u s a	NA	alvarado1962vocabulario
 4241	WORKING OR WORK	870	SanPedroySanPabloTeposcolula1600Mixtec	tniño	tniño	tⁿ i ɲ o	tⁿ i ɲ o	NA	swanton2021un-acercamiento
 4243	WORD	868	SanPedroySanPabloTeposcolula1600Mixtec	dudzu	dudzu	ⁿt u ð u	ⁿt u ð u	NA	alvarado1962vocabulario
 4244	WORD	863	SanPedroySanPabloTeposcolula1600Mixtec	tnu̧ʔu̧	tnu̧ʔu̧	tⁿ ũ ʔ ũ	tⁿ ũ ʔ ũ	NA	josserand1983mixtec
 4246	BLAME	61	SanPedroySanPabloTeposcolula1600Mixtec	quachi	quachi	kʷ a tʃ i	kʷ a tʃ i	NA	swanton2021un-acercamiento
-4247	DREAM	177	SanPedroySanPabloTeposcolula1600Mixtec	sani	sani	s a n i	ʃ a n i	NA	alvarado1962vocabulario
-4249	WHEN	840 839	SanPedroySanPabloTeposcolula1600Mixtec	a̧ma̧-na̧	a̧ma̧-na̧	a m a + n a	a m a + n a	NA	josserand1983mixtec
+4247	DREAM	177	SanPedroySanPabloTeposcolula1600Mixtec	sani	sani	ʃ a n i	ʃ a n i	NA	alvarado1962vocabulario
 4272	FATHER	220	SanSebastianMonteMixtec	tatá	tatá	t a ³ t a ⁵	t a ³ t a ⁵	NA	oxnard2020
 4273	CHILD (DESCENDANT)	103	SanSebastianMonteMixtec	jàya	jàya	h a ¹ j a ³	h a ¹ j a ³	NA	oxnard2020
 4274	CROSS-SEX SIBLING	159	SanSebastianMonteMixtec	kìva	kìva	k i ¹ β a ³	k i ¹ β a ³	NA	oxnard2020
@@ -9419,7 +9416,6 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 13252	FOOT	258	TepejilloMixtec	saʔa	saʔa	s a ʔ a	s a ʔ a	NA	josserand1983mixtec
 13253	TASSEL	751	SanBartolomeYucuaneMixtec	žoko	žoko	ʒ o k o	ʒ o k o	NA	josserand1983mixtec
 13254	ANIMAL	2	PiedraAzulMixtec	kitsǐ	kitsǐ	k i ³ ts i ¹⁵	k i ³ ts i ¹⁵	NA	mendoza2020vocabulario
-13255	SON	103	SanPedroySanPabloTeposcolula1600Mixtec	dzaya	dzaya	ð a j a	ð a j a	NA	alvarado1962vocabulario
 13257	WORKING OR WORK	870	SantaCatarinaTlaltempanMixtec	ču̧u̧	ču̧u̧	tʃ ũ ũ	tʃ ũ ũ	NA	josserand1983mixtec
 13258	BLOUSE (WOVEN)	69	SantiagoYosonduaMixtec	su̧ʔnu̧	su̧ʔnu̧	s ũ ʔ n ũ	s ũ ʔ n ũ	NA	josserand1983mixtec
 13259	BEESWAX	33	SantoTomasOcotepecMixtec	ñuma	ñuma	ɲ u ¹ m a ¹	ɲ u ¹ m a ¹	NA	alexander1988syntactic
@@ -9577,7 +9573,6 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 13463	SWELLING	742	TepejilloMixtec	kʷi̧ñu̧	kʷi̧ñu̧	kʷ ĩ ɲ ũ	kʷ ĩ ɲ ũ	NA	josserand1983mixtec
 13464	GREEN BEAN	308	SanBartolomeYucuaneMixtec	ⁿdiči	ⁿdiči	ⁿd i tʃ i	ⁿd i tʃ i	NA	josserand1983mixtec
 13465	FISH	NA	PiedraAzulMixtec	tsiàká	tsiàká	tsʲ + a ¹ k a ⁵	tsʲ + a ¹ k a ⁵	NA	mendoza2020vocabulario
-13466	DAUGHTER	103 104	SanPedroySanPabloTeposcolula1600Mixtec	dzayadzehe	dzaya-dzehe	ð a j a + ð e ʔ e	ð a j a + ð e ʔ e	NA	alvarado1962vocabulario
 13468	CAT	87	SanAndresChicahuaxtla1890Triqui	Chiluhu	chiluhu	ʃ i l u ʔ u	ʃ i l u ʔ u	NA	belmar1897ensayo
 13470	WHEN	1027 314	SantaCatarinaTlaltempanMixtec	ii-đaƀa	ii-đaƀa	i i + ð a β a	i i + ð a β a	NA	josserand1983mixtec
 13471	MAT	416	SantiagoYosonduaMixtec	žuu	žuu	ʒ u u	ʒ u u	NA	josserand1983mixtec
@@ -10056,7 +10051,6 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 14119	TOWN OR VILLAGE	794	TepejilloMixtec	ñu̧u̧	ñu̧u̧	ɲ ũ ũ	ɲ ũ ũ	NA	josserand1983mixtec
 14120	TOMATO	9 775	SanBartolomeYucuaneMixtec	ti-na̧na̧	ti-na̧na̧	t i + n ã n ã	t i + n ã n ã	NA	josserand1983mixtec
 14121	GRASSHOPPER	NA	PiedraAzulMixtec	tsikâ	tsikâ	ts + i ³ k a ⁵¹	ts + i ³ k a ⁵¹	NA	mendoza2020vocabulario
-14122	MAN	414 408	SanPedroySanPabloTeposcolula1600Mixtec	taiyee ~ tay yee	tay-yee	t a j + j e e	t a j + j e e	NA	alvarado1962vocabulario
 14124	SHEEP	157	SanAndresChicahuaxtla1890Triqui	Matsihi	matsihi	m a ts i h	m a ts i h	NA	belmar1897ensayo
 14126	RAT	444	SantiagoYosonduaMixtec	tɨ̧ñɨ̧	tɨ̧ñɨ̧	t ɨ̃ ɲ ɨ̃	t ɨ̃ ɲ ɨ̃	NA	josserand1983mixtec
 14127	SEVEN	638	SantoTomasOcotepecMixtec	uxa	uxa	u ¹ x a ¹	u ¹ x a ¹	NA	alexander1988syntactic
@@ -10137,7 +10131,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 14238	HOUSE	363	TepejilloMixtec	weʔe	weʔe	w e ʔ e	w e ʔ e	NA	josserand1983mixtec
 14239	PRICKLY PEAR CACTUS	564	SanBartolomeYucuaneMixtec	wi̧ʔⁿde	wi̧ʔⁿde	w ĩ ʔ ⁿd e	w ĩ ʔ ⁿd e	NA	josserand1983mixtec
 14240	BEE	29	PiedraAzulMixtec	ñùjñǔ	ñùjñǔ	ɲ u ¹ h ɲ u ¹⁵	ɲ u ¹ h ɲ u ¹⁵	NA	mendoza2020vocabulario
-14241	MAN	408	SanPedroySanPabloTeposcolula1600Mixtec	yee	yee	j e e	j e e	NA	josserand1983mixtec
+14241	MAN	408	SanPedroySanPabloTeposcolula1600Mixtec	yee	yee	j ɨ ɨ	j ɨ ɨ	NA	josserand1983mixtec
 14242	HOT	357	SantiagoTlazoyaltepecMixtec	i̧ʔni̧	i̧ʔni̧	ĩ ʔ n ĩ	ĩ ʔ n ĩ	NA	josserand1983mixtec
 14243	ANT	9 882	SanAndresChicahuaxtla1890Triqui	Chukua	chukua	ʃ u + kʷ a	ʃ u + kʷ a	NA	belmar1897ensayo
 14245	TOOTH	785	SantaCruzBravoMixtec	no̧ʔo̧	no̧ʔo̧	n õ ʔ õ	n õ ʔ õ	NA	josserand1983mixtec
@@ -10233,7 +10227,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 14368	MAMEY	411 124	SanBartolomeYucuaneMixtec	ⁿdika-ⁿdaži	ⁿdika-ⁿdaži	ⁿd i k a + ⁿd a ʒ i	ⁿd i k a + ⁿd a ʒ i	NA	josserand1983mixtec
 14369	MOUSE	444	PiedraAzulMixtec	tsìín	tsìín	ts ĩ ¹ ĩ ⁵	ts ĩ ¹ ĩ ⁵	NA	mendoza2020vocabulario
 14370	DEER	164	PiedraAzulMixtec	usû	usû	u ³ s u ⁵¹	u ³ s u ⁵¹	NA	mendoza2020vocabulario
-14371	MAN	414	SanPedroySanPabloTeposcolula1600Mixtec	tay	tay	t a i	t a i	NA	swanton2021un-acercamiento
+14371	MAN	414	SanPedroySanPabloTeposcolula1600Mixtec	tay	tay	t e e	t a i	NA	swanton2021un-acercamiento
 14376	MOUTH	447	SantaCruzBravoMixtec	yuʔu	yuʔu	j u ʔ u	j u ʔ u	NA	josserand1983mixtec
 14378	NINE	490	SantoTomasOcotepecMixtec	iin	iin	i ¹ ĩ ¹	i ¹ ĩ ¹	NA	alexander1988syntactic
 14379	SONG	457	TlahuapaMixtec	yaa	yaa	j a ³ a ³	j a ³ a ³	NA	reyes-basurto2020tlahuapa
@@ -10317,7 +10311,6 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 14492	MAT	416	TepejilloMixtec	yui	yui	j u i	j u i	NA	josserand1983mixtec
 14493	MEAT	418	SanBartolomeYucuaneMixtec	ku̧ñu̧	ku̧ñu̧	k ũ ɲ ũ	k ũ ɲ ũ	NA	josserand1983mixtec
 14494	SQUIRREL	NA	PiedraAzulMixtec	tsìkuáñu	tsìkuáñu	ts i ¹ + kʷ a ⁵ ɲ u ³	ts i ¹ + kʷ a ⁵ ɲ u ³	NA	mendoza2020vocabulario
-14495	WOMAN	858 433	SanPedroySanPabloTeposcolula1600Mixtec	ñahadzehe	ñaha-dzehe	ɲ a ʔ a + ð e ʔ e	ɲ a ʔ a + ð e ʔ e	NA	alvarado1962vocabulario
 14496	BIG (SINGULAR)	44	SantiagoTlazoyaltepecMixtec	kaʔnu̧	kaʔnu̧	k a ʔ n ũ	k a ʔ n ũ	NA	josserand1983mixtec
 14497	HORN (ANATOMY)	350	SanAndresChicahuaxtla1890Triqui	Kuû	kuû	k u u	k u u	NA	belmar1897ensayo
 14499	EAR	194	SantaCruzBravoMixtec	soʔo	soʔo	s o ʔ o	s o ʔ o	NA	josserand1983mixtec
@@ -12101,7 +12094,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 16959	HERBACEOUS PLANT	332	TepejilloMixtec	yuku	yuku	j u k u	j u k u	NA	josserand1983mixtec
 16960	COTTON	157	SanBartolomeYucuaneMixtec	kači	kači	k a tʃ i	k a tʃ i	NA	josserand1983mixtec
 16961	FLOWER	246	PiedraAzulMixtec	ijtâ	ijtâ	i ³ h t a ⁵¹	i ³ h t a ⁵¹	NA	mendoza2020vocabulario
-16962	FINGERNAIL	237	SanPedroySanPabloTeposcolula1600Mixtec	tnȩȩ	tnȩȩ	tⁿ ẽ ẽ	tⁿ ẽ ẽ	NA	josserand1983mixtec
+16962	FINGERNAIL	237	SanPedroySanPabloTeposcolula1600Mixtec	tnȩȩ	tnȩȩ	tⁿ ɨ̃ ɨ̃	tⁿ ɨ̃ ɨ̃	NA	josserand1983mixtec
 16963	SLOW	662	SantiagoTlazoyaltepecMixtec	kʷee	kʷee	kʷ e e	kʷ e e	NA	josserand1983mixtec
 16964	EGG	206	SanAndresChicahuaxtla1890Triqui	Trú	trú	ʈʂ u	ʈʂ u	NA	belmar1897ensayo
 16966	FROG	263	SantaCruzBravoMixtec	saʔwa	saʔwa	s a ʔ w a	s a ʔ w a	NA	josserand1983mixtec
@@ -12388,7 +12381,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 17362	CORN DOUGH	142	TepejilloMixtec	yusa	yusa	j u s a	j u s a	NA	josserand1983mixtec
 17363	MUD	449	SanBartolomeYucuaneMixtec	ⁿdeʔžu	ⁿdeʔžu	ⁿd e ʔ ʒ u	ⁿd e ʔ ʒ u	NA	josserand1983mixtec
 17364	THORN	764	PiedraAzulMixtec	ijñǔ	ijñǔ	i ³ h ɲ u ¹⁵	i ³ h ɲ u ¹⁵	NA	mendoza2020vocabulario
-17365	INTESTINES	367	SanPedroySanPabloTeposcolula1600Mixtec	site	site	s i t ɨ	ʃ i t ɨ	NA	josserand1983mixtec
+17365	INTESTINES	367	SanPedroySanPabloTeposcolula1600Mixtec	site	site	ʃ i t ɨ	ʃ i t ɨ	NA	josserand1983mixtec
 17370	MONEY	428	SantoTomasOcotepecMixtec	shuhún	shuhún	ʃ u ¹ ʔ ũ ⁵	ʃ u ¹ ʔ ũ ⁵	NA	alexander1988syntactic
 17371	BEAN	24	XayacatlanBravoMixtec	ⁿdūčì	ⁿdūčì	ⁿd u ³ tʃ i ¹	ⁿd u ³ tʃ i ¹	NA	josserand1983mixtec
 17372	BEE	29	XochapaMixtec	ñuñú	ñuñú	ɲ u ³ ɲ u ⁵	ɲ u ³ ɲ u ⁵	irregular tones, expected 1.5	stark2013diccionario
@@ -12447,7 +12440,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 17452	TORTILLA	789	TepejilloMixtec	đita	đita	ð i t a	ð i t a	NA	josserand1983mixtec
 17453	FOAM	9 250	SanBartolomeYucuaneMixtec	ti-i̧ñu̧	ti-i̧ñu̧	t i + ĩ ɲ ũ	t i + ĩ ɲ ũ	NA	josserand1983mixtec
 17454	CORN	141	PiedraAzulMixtec	nùjnǐ	nùjnǐ	n u ¹ h n i ¹⁵	n u ¹ h n i ¹⁵	NA	mendoza2020vocabulario
-17455	FOOT	258	SanPedroySanPabloTeposcolula1600Mixtec	saha	saha	s a ʔ a	ʃ a ʔ a	NA	alvarado1962vocabulario
+17455	FOOT	258	SanPedroySanPabloTeposcolula1600Mixtec	saha	saha	ʃ a ʔ a	ʃ a ʔ a	NA	alvarado1962vocabulario
 17457	PRICKLY PEAR CACTUS	566	SanAndresChicahuaxtla1890Triqui	Tinén	tinén	t i n ẽ	t i n ẽ	NA	belmar1897ensayo
 17458	HAWK	192	SantaCruzBravoMixtec	tasu̧	tasu̧	t a s ũ	t a s ũ	NA	josserand1983mixtec
 17459	WORKING OR WORK	870	SantoTomasOcotepecMixtec	sā-tíñú	sā-tíñú	t i ⁵ ɲ u ⁵	t i ⁵ ɲ u ⁵	irregular, expected 3.3	alexander1988syntactic
@@ -12877,7 +12870,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 18067	FIVE	244	SanBartolomeYucuaneMixtec	u̧ʔu̧	u̧ʔu̧	ũ ʔ ũ	ũ ʔ ũ	NA	josserand1983mixtec
 18068	SIX	652	SanBartolomeYucuaneMixtec	i̧ñu̧	i̧ñu̧	ĩ ɲ ũ	ĩ ɲ ũ	NA	josserand1983mixtec
 18069	FURROW	1102	PiedraAzulMixtec	í'tsin	í'tsin	i ⁵ ʔ ts ĩ ³	i ⁵ ʔ ts ĩ ³	NA	mendoza2020vocabulario
-18070	SWELLING	4 742	SanPedroySanPabloTeposcolula1600Mixtec	te-kʷeye	te-kʷeye	t e + kʷ e j e	t e + kʷ e j e	NA	josserand1983mixtec
+18070	SWELLING	4 742	SanPedroySanPabloTeposcolula1600Mixtec	te-kʷeye	te-kʷeye	t ɨ + kʷ e j e	t ɨ + kʷ e j e	NA	josserand1983mixtec
 18071	PIMPLE	529	SanPedroySanPabloTeposcolula1600Mixtec	deye	deye	ⁿd ɨ j ɨ	ⁿd ɨ j ɨ	NA	alvarado1962vocabulario
 18072	NIGHT TIME	481	SantiagoTlazoyaltepecMixtec	ni̧u̧	ni̧u̧	n ĩ ũ	n ĩ ũ	NA	josserand1983mixtec
 18073	FIRE	240	SanAndresChicahuaxtla1890Triqui	Yaghui	yaghui	ɲ i a ʔ a	ɲ i a ʔ a	NA	belmar1897ensayo
@@ -13040,7 +13033,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 18300	HONEY	344	TepejilloMixtec	ⁿduđi	ⁿduđi	ⁿd u ð i	ⁿd u ð i	NA	josserand1983mixtec
 18301	EIGHT	207	SanBartolomeYucuaneMixtec	u̧na̧	u̧na̧	ũ n ã	ũ n ã	NA	josserand1983mixtec
 18302	BEAN	24	PiedraAzulMixtec	ntuchǐ	ntuchǐ	ⁿd u ³ tʃ i ¹⁵	ⁿd u ³ tʃ i ¹⁵	NA	mendoza2020vocabulario
-18303	PUS	574	SanPedroySanPabloTeposcolula1600Mixtec	dacua	dacua	ⁿd a kʷ a	ⁿd a kʷ a	NA	alvarado1962vocabulario
+18303	PUS	574	SanPedroySanPabloTeposcolula1600Mixtec	dacua	dacua	ⁿd a kʷ a	ⁿd a kʷ a	NA	swanton2021un-acercamiento
 18304	DAY (24 HOURS)	1	SantiagoTlazoyaltepecMixtec	ⁿduu	ⁿduu	ⁿd u u	ⁿd u u	NA	josserand1983mixtec
 18305	ASH	5	SanAndresChicahuaxtla1890Triqui	Yaaha, Yaa	yaa	j a	j a	NA	belmar1897ensayo
 18306	FEATHER	227	SantaCruzBravoMixtec	tnu̧mi̧	tnu̧mi̧	tⁿ ũ m ĩ	tⁿ ũ m ĩ	NA	josserand1983mixtec
@@ -13518,7 +13511,6 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 18975	COOKING POT	138	TepejilloMixtec	kiđi	kiđi	k i ð i	k i ð i	NA	josserand1983mixtec
 18976	HOT	357	SanBartolomeYucuaneMixtec	i̧ʔni̧	i̧ʔni̧	ĩ ʔ n ĩ	ĩ ʔ n ĩ	NA	josserand1983mixtec
 18977	HONEY	344	PiedraAzulMixtec	ntǔxi	ntǔxi	ⁿd u ¹⁵ ʃ i ³	ⁿd u ¹⁵ ʃ i ³	NA	mendoza2020vocabulario
-18978	TROUSERS	802	SanPedroySanPabloTeposcolula1600Mixtec	satu	satu	s a t u	s a t u	NA	josserand1983mixtec
 18980	COMB	137	SanAndresChicahuaxtla1890Triqui	Gutsihiha	gutsihiha	g u ts i ʔ i ʔ a	g u ts i ʔ i ʔ a	NA	belmar1897ensayo
 18982	CORN	141	SantaCruzBravoMixtec	nu̧ni̧	nu̧ni̧	n ũ n ĩ	n ũ n ĩ	NA	josserand1983mixtec
 18986	FIRE	240	XayacatlanBravoMixtec	ñū̧ʔū̧	ñū̧ʔū̧	ɲ ũ ³ ʔ ũ ³	ɲ ũ ³ ʔ ũ ³	NA	josserand1983mixtec
@@ -15219,32 +15211,31 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 21151	TOOTH	785	SantoDomingoNuxaaMixtec	nu̧ʔu̧	nu̧ʔu̧	n ũ ʔ ũ	n ũ ʔ ũ	NA	josserand1983mixtec
 21152	EAR	194	SantoDomingoNuxaaMixtec	đoʔo	đoʔo	ð o ʔ o	ð o ʔ o	NA	josserand1983mixtec
 21153	NOSE	496	SantoDomingoNuxaaMixtec	điti̧	điti̧	ð i t ĩ	ð i t ĩ	NA	josserand1983mixtec
-21154	HOUSE	363	SanPedroySanPabloTeposcolula1600Mixtec	huahi	huahi	w a ʔ i	w a ʔ i	NA	swanton2021un-acercamiento
+21154	HOUSE	363	SanPedroySanPabloTeposcolula1600Mixtec	huahi	huahi	w e ʔ e	w a ʔ i	NA	swanton2021un-acercamiento
 21156	PATH	523	SanPedroySanPabloTeposcolula1600Mixtec	ichi	ichi	i tʃ i	i tʃ i	NA	swanton2021un-acercamiento
 21157	LEG	387	SanPedroySanPabloTeposcolula1600Mixtec	đeʔe	đeʔe	ð ɨ ʔ ɨ	ð ɨ ʔ ɨ	NA	josserand1983mixtec
 21159	MAT	416	SanPedroySanPabloTeposcolula1600Mixtec	yuvui	yuvui	j u w i	j u w i	NA	swanton2021un-acercamiento
-21162	BED	26	SanPedroySanPabloTeposcolula1600Mixtec	sito	sito	s i t o	ʃ i t o	NA	josserand1983mixtec
+21162	BED	26	SanPedroySanPabloTeposcolula1600Mixtec	sito	sito	ʃ i t o	ʃ i t o	NA	josserand1983mixtec
 21164	STOOL	717	SanPedroySanPabloTeposcolula1600Mixtec	tayu	tayu	t a j u	t a j u	NA	swanton2021un-acercamiento
 21166	ANIMAL	2	SanPedroySanPabloTeposcolula1600Mixtec	quete	quete	k ɨ t ɨ	k ɨ t ɨ	NA	swanton2021un-acercamiento
 21168	BIRD	49	SanPedroySanPabloTeposcolula1600Mixtec	đaa	đaa	ð a a	ð a a	NA	josserand1983mixtec
-21169	FISH	9 242	SanPedroySanPabloTeposcolula1600Mixtec	teyaca	teyaca	t ɨ + j a k a	t ɨ + j a k a	NA	alvarado1962vocabulario
+21169	FISH	9 242	SanPedroySanPabloTeposcolula1600Mixtec	teyaca	te-yaca	t ɨ + j a k a	t ɨ + j a k a	NA	alvarado1962vocabulario
 21171	SNAKE	689	SanPedroySanPabloTeposcolula1600Mixtec	koo	koo	k o o	k o o	NA	josserand1983mixtec
-21172	FROG	9 263	SanPedroySanPabloTeposcolula1600Mixtec	tiyahua	tiyahua	t i + j a ʔ w a	t i + j a ʔ w a	NA	alvarado1962vocabulario
+21172	FROG	9 263	SanPedroySanPabloTeposcolula1600Mixtec	tiyahua	ti-yahua	t i + j a ʔ w a	t i + j a ʔ w a	NA	alvarado1962vocabulario
 21174	FROG	263	SanPedroySanPabloTeposcolula1600Mixtec	đaʔva	đaʔva	ð a ʔ β a	ð a ʔ β a	NA	josserand1983mixtec
 21175	HAWK	193	SanPedroySanPabloTeposcolula1600Mixtec	đi̧ʔña̧	đi̧ʔña̧	ð ĩ ʔ ɲ ã	ð ĩ ʔ ɲ ã	NA	josserand1983mixtec
-21177	SCORPION	9 635	SanPedroySanPabloTeposcolula1600Mixtec	te-đuʔma̧	te-đuʔma̧	t ɨ + ð u m a	t ɨ + ð u m a	NA	josserand1983mixtec
+21177	SCORPION	9 635	SanPedroySanPabloTeposcolula1600Mixtec	te-đuʔma̧	te-đuʔma̧	t ɨ + ð u ʔ m a	t ɨ + ð u ʔ m a	NA	josserand1983mixtec
 21178	BEE	29	SanPedroySanPabloTeposcolula1600Mixtec	ñuñu	ñuñu	ɲ u ɲ u	ɲ u ɲ u	NA	alvarado1962vocabulario
 21179	MOUSE	444	SanPedroySanPabloTeposcolula1600Mixtec	tneñe	tneñe	tⁿ ɨ ɲ ɨ	tⁿ ɨ ɲ ɨ	NA	alvarado1962vocabulario
-21180	RAT	944	SanPedroySanPabloTeposcolula1600Mixtec	tnȩñȩ	tnȩñȩ	tⁿ ẽ ɲ ẽ	tⁿ ẽ ɲ ẽ	NA	josserand1983mixtec
 21181	DEER	164	SanPedroySanPabloTeposcolula1600Mixtec	idzu	idzu	i ð u	i ð u	NA	swanton2021un-acercamiento
-21182	SKUNK	9 655	SanPedroySanPabloTeposcolula1600Mixtec	teñehe	teñehe	t ɨ + ɲ ɨ ʔ ɨ	t ɨ + ɲ ɨ ʔ ɨ	NA	alvarado1962vocabulario
+21182	SKUNK	9 655	SanPedroySanPabloTeposcolula1600Mixtec	teñehe	te-ñehe	t ɨ + ɲ ɨ ʔ ɨ	t ɨ + ɲ ɨ ʔ ɨ	NA	alvarado1962vocabulario
 21183	RABBIT	578 575	SanPedroySanPabloTeposcolula1600Mixtec	idzocusa	idzo-cusa	i ð o + k u s a	i ð o + k u s a	NA	alvarado1962vocabulario
-21185	DOG	9 174	SanPedroySanPabloTeposcolula1600Mixtec	teina	teina	t ɨ + i n a	t ɨ + i n a	NA	swanton2021un-acercamiento
-21187	CAT	2 900	SanPedroySanPabloTeposcolula1600Mixtec	quetecau	quete-cau	k e t e + k a u	k e t e + k a u	NA	alvarado1962vocabulario
-21194	HEN	9 100	SanPedroySanPabloTeposcolula1600Mixtec	teñoo	teñoo	t ɨ + ɲ o o	t ɨ + ɲ o o	NA	alvarado1962vocabulario
+21185	DOG	9 174	SanPedroySanPabloTeposcolula1600Mixtec	teina	te-ina	t ɨ + i n a	t ɨ + i n a	NA	swanton2021un-acercamiento
+21187	CAT	2 900	SanPedroySanPabloTeposcolula1600Mixtec	quetecau	quete-cau	k ɨ t ɨ + k a u	k ɨ t ɨ + k a u	NA	alvarado1962vocabulario
+21194	HEN	9 100	SanPedroySanPabloTeposcolula1600Mixtec	teñoo	te-ñoo	t ɨ + ɲ o o	t ɨ + ɲ o o	NA	alvarado1962vocabulario
 21195	PIG	526	SanPedroySanPabloTeposcolula1600Mixtec	quene	quene	k ɨ n ɨ	k ɨ n ɨ	NA	alvarado1962vocabulario
 21196	SHEEP	9 157	SanPedroySanPabloTeposcolula1600Mixtec	tecachidzuchi	te-cachi	t ɨ + k a tʃ i	t ɨ + k a tʃ i	NA	alvarado1962vocabulario
-21198	ANT	9 882	SanPedroySanPabloTeposcolula1600Mixtec	tiyoco	tiyoco	t i + j o k o	t i + j o k o	NA	alvarado1962vocabulario
+21198	ANT	9 882	SanPedroySanPabloTeposcolula1600Mixtec	teyoco	te-yoco	t ɨ + j o k o	t ɨ + j o k o	NA	swanton2021un-acercamiento
 21200	HORN (ANATOMY)	350	SanPedroySanPabloTeposcolula1600Mixtec	deque	deque	ⁿd ɨ k ɨ	ⁿd ɨ k ɨ	NA	alvarado1962vocabulario
 21202	FEATHER	227	SanPedroySanPabloTeposcolula1600Mixtec	tnumi	tnumi	tⁿ u m i	tⁿ u m i	NA	swanton2021un-acercamiento
 21204	WING	853	SanPedroySanPabloTeposcolula1600Mixtec	disi	disi	ⁿd i s i	ⁿd i ʃ i	NA	alvarado1962vocabulario
@@ -15260,7 +15251,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 21220	CORN DOUGH	142	SanPedroySanPabloTeposcolula1600Mixtec	yusa̧	yusa̧	j u s ã	j u ʃ ã	NA	josserand1983mixtec
 21221	TORTILLA	789	SanPedroySanPabloTeposcolula1600Mixtec	đita	đita	ð i t a	ð i t a	NA	josserand1983mixtec
 21222	CORN STALK	150	SanPedroySanPabloTeposcolula1600Mixtec	ñama	ñama	ɲ a m a	ɲ a m a	NA	swanton2021un-acercamiento
-21226	FURROW	273	SanPedroySanPabloTeposcolula1600Mixtec	siči	siči	s i tʃ i	s i tʃ i	NA	josserand1983mixtec
+21226	FURROW	273	SanPedroySanPabloTeposcolula1600Mixtec	siči	siči	ʃ i tʃ i	s i tʃ i	NA	josserand1983mixtec
 21228	TASSEL	751	SanPedroySanPabloTeposcolula1600Mixtec	yoko	yoko	j o k o	j o k o	NA	josserand1983mixtec
 21230	BEAN	24	SanPedroySanPabloTeposcolula1600Mixtec	duchi	duchi	ⁿd u tʃ i	ⁿd u tʃ i	NA	swanton2021un-acercamiento
 21231	GREEN BEAN	308	SanPedroySanPabloTeposcolula1600Mixtec	ⁿdiči	ⁿdiči	ⁿd i tʃ i	ⁿd i tʃ i	NA	josserand1983mixtec
@@ -15275,12 +15266,10 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 21245	BANANA	14	SanPedroySanPabloTeposcolula1600Mixtec	chita	chita	tʃ i t a	tʃ i t a	NA	alvarado1962vocabulario
 21246	BANANA	13	SanPedroySanPabloTeposcolula1600Mixtec	dica	dica	ⁿd i k a	ⁿd i k a	irregular, expected ⁿdɨka	alvarado1962vocabulario
 21247	PRICKLY PEAR CACTUS	564	SanPedroySanPabloTeposcolula1600Mixtec	wi̧ʔⁿda	wi̧ʔⁿda	w ĩ ʔ ⁿd a	w ĩ ʔ ⁿd a	NA	josserand1983mixtec
-21248	MAMEY	4 411	SanPedroySanPabloTeposcolula1600Mixtec	te-ⁿdika	te-ⁿdika	t e + ⁿd i k a	t e + ⁿd i k a	NA	josserand1983mixtec
-21249	MAMEY OR ZAPOTE	411 258	SanPedroySanPabloTeposcolula1600Mixtec	dicasaha	dica-saha	ⁿd i k a + s a ʔ a	ⁿd i k a + s a ʔ a	NA	alvarado1962vocabulario
-21250	MUSHROOM	455	SanPedroySanPabloTeposcolula1600Mixtec	siye	siye	s i j ɨ	s i j ɨ	NA	alvarado1962vocabulario
+21248	MAMEY	411	SanPedroySanPabloTeposcolula1600Mixtec	dica	dica	ⁿd i k a	ⁿd i k a	NA	swanton2021un-acercamiento
+21250	MUSHROOM	455	SanPedroySanPabloTeposcolula1600Mixtec	siye	siye	ʃ i j ɨ	s i j ɨ	NA	alvarado1962vocabulario
 21251	MEAT	418	SanPedroySanPabloTeposcolula1600Mixtec	coño	coño	k o ɲ o	k o ɲ o	NA	alvarado1962vocabulario
-21254	GRIDDLE	310	SanPedroySanPabloTeposcolula1600Mixtec	siyo	siyo	s i j o	ʃ i j o	NA	josserand1983mixtec
-21256	COOKING POT	138	SanPedroySanPabloTeposcolula1600Mixtec	keđe	keđe	k ɨ ð ɨ	k ɨ ð ɨ	NA	josserand1983mixtec
+21254	GRIDDLE	310	SanPedroySanPabloTeposcolula1600Mixtec	siyo	siyo	ʃ i j o	ʃ i j o	NA	josserand1983mixtec
 21257	OVEN	17	SanPedroySanPabloTeposcolula1600Mixtec	sitnu	sitnu	ʃ i tⁿ u	ʃ i tⁿ u	NA	swanton2021un-acercamiento
 21259	FIRE	240	SanPedroySanPabloTeposcolula1600Mixtec	ñuhu	ñuhu	ɲ u ʔ u	ɲ u ʔ u	NA	swanton2021un-acercamiento
 21261	ASH	5	SanPedroySanPabloTeposcolula1600Mixtec	yaa	yaa	j a a	j a a	NA	alvarado1962vocabulario
@@ -16146,7 +16135,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 22310	BIRD	49	IxpantepecNievesMixtec	lāā	lāā	l a ³ a ³	l a ³ a ³	NA	carroll2015ixpantepec
 22311	CAT	87	IxpantepecNievesMixtec	chítò	chítò	tʃ i ⁵ t o ¹	tʃ i ⁵ t o ¹	NA	carroll2015ixpantepec
 22312	SMALL (SINGULAR)	673	IxpantepecNievesMixtec	lúlú	lúlú	l u ⁵ l u ⁵	l u ⁵ l u ⁵	NA	carroll2015ixpantepec
-22313	WOMAN	858	SanPedroySanPabloTeposcolula1600Mixtec	ñaha	ñaha	ɲ a ʔ a 	ɲ a ʔ a 	NA	swanton2021un-acercamiento
+22313	WOMAN	858 433	SanPedroySanPabloTeposcolula1600Mixtec	ñaha dzehe	ñaha-dzehe	ɲ a ʔ a + ð ɨ ʔ ɨ	ɲ a ʔ a + ð ɨ ʔ ɨ	NA	swanton2021un-acercamiento
 22314	COOKING POT	138	SanPedroySanPabloTeposcolula1600Mixtec	quedze	quedze	k ɨ ð ɨ	k ɨ ð ɨ	NA	swanton2021un-acercamiento
 22315	SOAP	690	SanPedroySanPabloTeposcolula1600Mixtec	nama	nama	n a m a	n a m a	NA	swanton2021un-acercamiento
 22316	EAR OF CORN (FRESH)	199	SanPedroySanPabloTeposcolula1600Mixtec	dedzi	dedzi	ⁿd ɨ ð ɨ	ⁿd ɨ ð ɨ	NA	swanton2021un-acercamiento
@@ -16157,7 +16146,7 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 22321	OWNER	485 512	SanPedroySanPabloTeposcolula1600Mixtec	stoho	s-toho	ʃ i + t o ʔ o	ʃ i + t o ʔ o	NA	swanton2021un-acercamiento
 22322	HAWK	192	SanPedroySanPabloTeposcolula1600Mixtec	tadzu	tadzu	t a ð u	t a ð u	NA	swanton2021un-acercamiento
 22323	GRIDDLE	310	SantaCruzItundujiaMixtec	iyo	iyo	i j o	i j o	NA	josserand1983mixtec
-22324	WHEN	840 839	SanPedroySanPabloTeposcolula1600Mixtec	amana	amana	a m a + n a	a m a + n a	NA	swanton2021un-acercamiento
+22324	WHEN	840 839	SanPedroySanPabloTeposcolula1600Mixtec	amana	ama-na	a m a + n a	a m a + n a	NA	swanton2021un-acercamiento
 22325	GARBAGE	282	AlcozaucaGuerreroMixtec	ʃe¹ʔe¹	ʃe¹ʔe¹	ʃ e ¹ ʔ e ¹	ʃ e ¹ ʔ e ¹	NA	mendoza-ruiz2016fonologia
 22326	NINE	490	AlcozaucaGuerreroMixtec	i1ĩ1	i1ĩ1	i 1 ĩ 1	i 1 ĩ 1	NA	swanton2021observaciones
 22327	ONE	507	AlcozaucaGuerreroMixtec	i2ĩ2	i2ĩ2	i ³ ĩ ³	i ³ ĩ ³	NA	swanton2021observaciones
@@ -16168,3 +16157,5 @@ ID	MEANING	COGIDS	DOCULECT	SOURCE_ORIGINAL	SOURCE_ORTHOGRAPHIC	TOKENS_SOURCE	TOK
 22332	NIGHT	481	AlcozaucaGuerreroMixtec	ju13ũ1	ju13ũ1	ɲ u ¹³ u ¹	ɲ u ¹³ u ¹	NA	swanton2021observaciones
 22333	BASKET	18	AlcozaucaGuerreroMixtec	ti13ka3	ti13ka3	t i ¹⁵ k a ⁵	t i ¹⁵ k a ⁵	NA	swanton2021observaciones
 22334	HERBACEOUS PLANT	333	YucuquimiOcampoMixtec	ʒo²o²	ʒo²o²	ʒ o ³ o ³	ʒ o ³ o ³	NA	swanton2021observaciones
+	FURROW	272	SanPedroySanPabloTeposcolula1600Mixtec	yuq	yuq	j u k ũ	j u k ũ		swanton2021un-acercamiento
+	HERBACEOUS PLANT	333	SanPedroySanPabloTeposcolula1600Mixtec	yuvua	yuvua	j u w a	j u w a		swanton2021un-acercamiento
