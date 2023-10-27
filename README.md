@@ -33,7 +33,8 @@ Metadata of the language sample:
 ### mixtecan_cognate_database
 contains all the primary language data coded for cognacy:
 * ID = a unique, arbitrary identifier for each entry (digits)
-* MEANING	= gloss/meaning of the entry
+* CONCEPT = concept (standardized meaning) of the entry
+* GLOSS = gloss(es)/meaning(s) in Spanish
 * COGIDS = unique identifier for cognate sets; each morpheme is assigned its own identifier, separated by a space (digits)
 * DOCULECT = identifier for variety of the entry (see also: metadata)
 * TOKENS = entry in standardized IPA representation, tokenized
@@ -47,8 +48,8 @@ contains all the primary language data coded for cognacy:
 ### protoforms
 contains the reconstructed proto-Mixtec forms (where reconstruction was possible), as well as information about earlier reconstructions:
 * COGIDS_BROAD = unique identifier for cognate sets; each morpheme is assigned its own identifier, separated by a space (digits)
-* MEANING	= gloss(es)/meaning(s) of the reconstructed form
-* SPANISH = gloss(es)/meaning(s) in Spanish (for easier comparison with source material)
+* CONCEPT = concept (standardized meaning) of the entry
+* GLOSS = gloss(es)/meaning(s) in Spanish (for easier comparison with source material)
 * PMX = reconstructed proto-Mixtec form
 * COMMENT = further explanations
 * PMX_Josserand1983 = reconstruction as given by Josserand 1983 (if available) - cite key:josserand1983mixtec
